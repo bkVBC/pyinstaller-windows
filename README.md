@@ -1,3 +1,5 @@
+Copy of [previous release](https://github.com/batonogov/docker-pyinstaller/releases/tag/2.9) of [this repo](https://github.com/batonogov/docker-pyinstaller) which builds a docker image at Python 3.10.
+
 # PyInstaller Docker Images
 
 **batonogov/pyinstaller-linux** and **batonogov/pyinstaller-windows** are a pair of Docker containers to ease compiling Python applications to binaries / exe files.
