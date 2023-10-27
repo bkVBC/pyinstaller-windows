@@ -31,8 +31,6 @@ fi
 
 cd $WORKDIR
 
-sudo apt-get install -y git
-
 if [ -f requirements.txt ]; then
     pip install -r requirements.txt
 fi # [ -f requirements.txt ]
